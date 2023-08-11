@@ -1,0 +1,21 @@
+.chat{
+    flex: 2;
+}
+.chatInfo{
+    height: 50px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    color: black;
+}
+.chatInfo:hover{
+    background-color: rgb(240, 212, 208);
+    cursor: pointer;
+}
+.chatIcons{
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+}

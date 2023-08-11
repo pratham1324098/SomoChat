@@ -1,0 +1,5 @@
+.sidebar{
+    flex: 1;
+    background-color: rgb(250, 14, 2);
+    position: relative;;
+}
